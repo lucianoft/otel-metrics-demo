@@ -109,5 +109,4 @@ docker compose down -v
 ## Próximos passos (opcional)
 
 - Adicionar alertas no Grafana
-- Conectar app real (ex: jretail-loja-back) com `management.otlp.metrics.export.url`
 - Manter ELK separado só para logs
