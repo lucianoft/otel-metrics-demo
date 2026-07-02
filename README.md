@@ -22,7 +22,7 @@ Grafana :3000
 ## 1. Subir o stack
 
 ```bash
-cd C:\development\java\otel-metrics-demo
+cd C:\development\otel-metrics-demo
 docker compose up -d
 ```
 
